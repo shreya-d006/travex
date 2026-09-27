@@ -1,0 +1,6 @@
+{
+  "_comment": "Run: npx create-next-app@latest travex-frontend --tailwind --app   then add these deps and copy lib/hooks/components in.",
+  "dependencies_to_add": {
+    "firebase": "^10.13.0"
+  }
+}

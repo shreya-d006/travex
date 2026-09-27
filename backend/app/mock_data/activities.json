@@ -1,0 +1,7 @@
+[
+  { "id": "a1", "name": "Private Guided Tours", "price_pp": 2200, "tags": ["relaxed", "luxury"] },
+  { "id": "a2", "name": "Group Adventure Activities", "price_pp": 1500, "tags": ["active", "group"] },
+  { "id": "a3", "name": "Local Food Walking Tour", "price_pp": 900, "tags": ["food", "active"] },
+  { "id": "a4", "name": "8 Major Attractions Pass", "price_pp": 1200, "tags": ["active", "packed"] },
+  { "id": "a5", "name": "Free Beach Day", "price_pp": 0, "tags": ["relaxed", "budget"] }
+]

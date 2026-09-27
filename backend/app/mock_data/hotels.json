@@ -1,0 +1,10 @@
+[
+  { "id": "h1", "name": "Boutique 5\u2605 Hotel", "stars": 5, "price_per_night": 9200, "tags": ["luxury", "boutique"], "cancellable": false },
+  { "id": "h2", "name": "Modern 4\u2605 Loft", "stars": 4, "price_per_night": 6400, "tags": ["comfort", "central"], "cancellable": false },
+  { "id": "h3", "name": "Central 4\u2605 Stay", "stars": 4, "price_per_night": 5100, "tags": ["central", "budget-friendly"], "cancellable": false },
+  { "id": "h4", "name": "Hotel Arts", "stars": 4, "price_per_night": 6000, "tags": ["comfort"], "cancellable": true },
+  { "id": "h5", "name": "Mandarin Oriental (Upgrade)", "stars": 5, "price_per_night": 6000, "tags": ["luxury", "upgrade"], "cancellable": false },
+  { "id": "h6", "name": "JW Marriott", "stars": 5, "price_per_night": 6300, "tags": ["luxury"], "cancellable": false },
+  { "id": "h7", "name": "Majestic Hotel & Spa", "stars": 4, "price_per_night": 5400, "tags": ["comfort", "spa"], "cancellable": false },
+  { "id": "h8", "name": "Backpacker Hostel Co.", "stars": 2, "price_per_night": 1800, "tags": ["budget"], "cancellable": false }
+]

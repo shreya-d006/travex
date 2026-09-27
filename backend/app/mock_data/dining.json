@@ -1,0 +1,5 @@
+[
+  { "id": "f1", "name": "Michelin-Starred Dinner", "price_pp": 4500, "tags": ["luxury", "food"] },
+  { "id": "f2", "name": "Curated Mixed Dining", "price_pp": 1800, "tags": ["comfort", "food"] },
+  { "id": "f3", "name": "Local Street Food Trail", "price_pp": 400, "tags": ["budget", "food", "active"] }
+]
